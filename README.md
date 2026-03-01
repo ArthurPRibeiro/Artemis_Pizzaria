@@ -104,7 +104,7 @@ Essa organização garante maior manutenibilidade, escalabilidade e clareza arqu
 - Minimização de falhas humanas através de validações centralizadas na API.
 - Arquitetura escalável e adaptável a outros contextos de varejo.
 - Estrutura preparada para expansão modular de funcionalidades.
-- Validação prática da solução por meio de estudo de caso aplicado ao setor de pizzarias.
+- Validação teórica da solução por meio de estudo de caso aplicado ao setor de pizzarias.
 
 ---
 
