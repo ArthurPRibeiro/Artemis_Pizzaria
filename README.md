@@ -21,7 +21,7 @@ A solução foi projetada sob uma **arquitetura cliente-servidor**, com comunica
 
 ## Minha Contribuição
 Atuei na concepção e desenvolvimento do projeto:
-- **Concepção:** Idealização de funcionalidades e soluções
+- **Concepção:** Idealização de funcionalidades e soluções.
 - **Backend:** Construção da API REST (Node.js + Express) e modelagem de banco de dados relacional utilizando Prisma ORM.
 - **Integração:** Conexão entre a aplicação e o servidor garantindo a segurança e o tratamento das requisições.
 
