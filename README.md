@@ -19,11 +19,10 @@ A solução foi projetada sob uma **arquitetura cliente-servidor**, com comunica
 
 ---
 
-## Minha Contribuição (Full Stack & UI/UX)
-Atuei de ponta a ponta na concepção e desenvolvimento do projeto:
-- **UI/UX Design:** Elaboração de wireframes, definição de fluxos de navegação e prototipação de alta fidelidade no Figma.
-- **Frontend Mobile & Web:** Implementação da interface do aplicativo (React Native) e do painel administrativo (Web).
-- **Backend:** Construção da API REST (Node.js + Express) e modelagem de dados relacional utilizando Prisma ORM.
+## Minha Contribuição
+Atuei na concepção e desenvolvimento do projeto:
+- **Concepção:** Idealização de funcionalidades e soluções
+- **Backend:** Construção da API REST (Node.js + Express) e modelagem de banco de dados relacional utilizando Prisma ORM.
 - **Integração:** Conexão entre a aplicação e o servidor garantindo a segurança e o tratamento das requisições.
 
 ### Melhorias Pós-TCC (Foco em Portfólio)
