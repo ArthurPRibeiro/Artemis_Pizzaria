@@ -1,5 +1,5 @@
 ![img alt](https://github.com/isaacmenezes/artemis_pizzaria/blob/48d0869ee74e57f0272aeace0c3c3472f45ea540/pizzaApp/assets/img/readme_header.png)
-![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo_/_Em_Refatora%C3%A7%C3%A3o-brightgreen?style=for-the-badge)
+![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
